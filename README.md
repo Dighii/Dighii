@@ -1,7 +1,7 @@
 ### Hi there 👋
  - 🌱 I’m currently learning Javascript.
  - 💬 Ask me about HTML, CSS and Tailwind CSS
- - 📫 [Twitter: @001coding](https://twitter.com/001coding?s=20), E-mail:   [isngvctr@gmail.com](isngvctr@gmail.com)
+ - 📫 [Twitter: @001coding](https://twitter.com/001coding?s=20), E-mail:   isngvctr@gmail.com
  - 😄 Pronouns: He/Him.
  - ⚡ Fun fact: I listen to a lot of French and Spanish songs but I don't know the languages.
 <!--
