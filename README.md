@@ -3,7 +3,7 @@
  - 💬 Ask me about HTML, CSS and Tailwind CSS
  - 📫 [Twitter: @001coding](https://twitter.com/001coding?s=20), E-mail:   isngvctr@gmail.com
  - 😄 Pronouns: He/Him.
- - ⚡ Fun fact: I listen to a lot of French and Spanish songs but I don't know the languages.
+ - ⚡ Fun fact: I listen to a lot of French and Spanish songs but I don't know the languages. Plus I had this weird nickname because I love beans.
 <!--
 **Dighii/Dighii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
